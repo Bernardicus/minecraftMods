@@ -1,4 +1,0 @@
-additionaladditions-4.0.5.jar 
-AdvancementPlaques-1.18.2-1.4.5.1.jar 
-Animal Tamer 1.11.3 -1.18.2.jar 
-Annotated-DI-Forge-4.0.3+1.18.2.jar 
